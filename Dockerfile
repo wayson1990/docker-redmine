@@ -39,6 +39,7 @@ COPY assets/tools/ /usr/bin/
 COPY entrypoint.sh /sbin/entrypoint.sh
 RUN chmod 755 /sbin/entrypoint.sh
 RUN gem sources --add https://gems.ruby-china.org/ --remove https://rubygems.org/
+Run gem install rake
 
 EXPOSE 80/tcp 443/tcp
 
