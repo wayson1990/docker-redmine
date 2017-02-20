@@ -1,3 +1,8 @@
+# Liangchaob edit for daocloud environment
+## cglog
+- cg env name
+- cg rubychina
+
 [![Docker Repository on Quay.io](https://quay.io/repository/sameersbn/redmine/status "Docker Repository on Quay.io")](https://quay.io/repository/sameersbn/redmine)
 
 # Table of Contents
